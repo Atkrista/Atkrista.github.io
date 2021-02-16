@@ -1,0 +1,15 @@
+/* #container {
+  border: 1px solid brown;
+}
+
+.score-board {
+  border: 1px solid blue;
+} */
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-items: center; */
+  /* border: 1px solid blue; */
+}
